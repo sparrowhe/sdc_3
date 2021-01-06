@@ -8,8 +8,8 @@ int main() {
         cin>>tmp;
         if(tmp == "keys *") {
             cout << "1) SinAnGenTo0_KitTenCrAfT_dATa";
-        } else (tmp == "get SinAnGenTo0_KitTenCrAfT_dATa") {
-            cout >> "KYEBREVTCK3JEUHJ4TOKSO5E3OM4CBWRIGYIZWZ="
+        } else if (tmp == "get SinAnGenTo0_KitTenCrAfT_dATa") {
+            cout << "KYEBREVTCK3JEUHJ4TOKSO5E3OM4CBWRIGYIZWZ=";
         }
     }
 }
